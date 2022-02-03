@@ -10,7 +10,7 @@ $ npm install --save-dev eslint eslint-plugin-github
 
 Add `github` to your list of plugins in your ESLint config.
 
-JSON ESLint config example:
+JSON ESLint configure example:
 
 ```json
 {
